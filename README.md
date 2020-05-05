@@ -20,7 +20,7 @@ Here is a demo picture of the monitor running:
 You will also be able to find the demo video as `demo.gif`.
 
 <p align="center">
-  <img width="800" height="500" src="https://github.com/BUEC500C1/health-monitor-health-monitoring-unit/blob/master/demo.gif">
+  <img src="https://github.com/BUEC500C1/health-monitor-health-monitoring-unit/blob/master/demo.gif" width="60%">
 </p>
 
 ## Data Generator Section (Qingxuan Pei):
